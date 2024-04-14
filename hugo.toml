@@ -14,10 +14,10 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 	mainSections = 'posts'
 
 [author]
-	name = 'Anthony Arphan'
-	bio = 'Debitis assumenda esse dignissimos aperiam delectus maxime tenetur repudiandae dolore'
+	name = 'GrayHat Media'
+	bio = 'A writer about all innovative things in the service, residental, and tech sector.'
 	avatar = '/images/nasa-astronaut-unsplash.jpg'
-	twitter = 'https://twitter.com/insertapps'
+	twitter = 'https://twitter.com/butterreader'
 
 [menu] # Menu management
 	[[menu.main]]
