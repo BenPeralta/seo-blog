@@ -1,0 +1,19 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "blogPost",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isCanonical",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "createdAt",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
