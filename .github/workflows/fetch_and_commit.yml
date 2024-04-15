@@ -21,7 +21,7 @@ jobs:
 
     - name: Fetch new Markdown files from Firebase Storage
       run: |
-        gsutil cp gs://greyhatnews-d2e68.appspot.com/*.md ./content/
+        gsutil cp gs://greyhatnews-d2e68.appspot.com/2024/*.md ./content/
       
     - name: Commit and Push new Markdown files
       run: |
