@@ -1,0 +1,32 @@
+name: Update and Commit New Content
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs at the start of every hour
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Google Cloud SDK
+      uses: google-github-actions/setup-gcloud@v0.3.0
+      with:
+        project_id: ${{ secrets.GCP_PROJECT_ID }}
+        service_account_key: ${{ secrets.GCP_SA_KEY }}
+        export_default_credentials: true
+
+    - name: Fetch new Markdown files from Firebase Storage
+      run: |
+        gsutil cp gs://greyhatnews-d2e68.appspot.com/*.md ./content/
+      
+    - name: Commit and Push new Markdown files
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add content/*.md
+        git commit -m "Automatically fetched and added new Markdown files"
+        git push

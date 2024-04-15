@@ -1,11 +1,39 @@
 const functions = require('firebase-functions');
 const admin = require('firebase-admin');
+const fetch = require('node-fetch');
 const { Storage } = require('@google-cloud/storage');
 
 admin.initializeApp();
 
 const storage = new Storage();
 const bucketName = 'greyhatnews-d2e68.appspot.com'; // This should match your actual bucket path
+
+exports.triggerStaticSiteBuild = functions.storage.bucket(bucketName).object().onFinalize(async (object) => {
+    const filePath = object.name; // Path to the markdown file in storage
+    
+    const githubRepo = 'BenPeralta/seo-blog';
+    const githubToken = functions.config().github.token; // The token stored in Firebase config
+
+    // Trigger the GitHub Actions workflow
+    const response = await fetch(
+        `https://api.github.com/repos/${githubRepo}/dispatches`,
+        {
+            method: 'POST',
+            body: JSON.stringify({ event_type: 'trigger-hugo-build', client_payload: { filePath: filePath } }),
+            headers: {
+                Accept: 'application/vnd.github.everest-preview+json',
+                Authorization: `Bearer ${githubToken}`,
+                'Content-Type': 'application/json',
+            },
+        }
+    );
+
+    if (!response.ok) {
+        throw new Error(`Failed to trigger build: ${response.status} ${response.statusText}`);
+    }
+
+    return response.json();
+});
 
 exports.generateHugoContent = functions.https.onRequest(async (req, res) => {
     if (req.method !== 'POST') {
@@ -32,6 +60,9 @@ exports.generateHugoContent = functions.https.onRequest(async (req, res) => {
             const filePath = `${year}/${post.slug}.md`;  // Define the path in the bucket
             await uploadMarkdownToStorage(content, filePath);
             console.log(`Uploaded file at ${filePath}`);
+            
+            // Update the 'draft' field to true
+            await doc.ref.update({ draft: true });
         }
         res.send('Markdown files uploaded successfully.');
     } catch (error) {
@@ -39,6 +70,7 @@ exports.generateHugoContent = functions.https.onRequest(async (req, res) => {
         res.status(500).send('Error uploading markdown files');
     }
 });
+
 
 async function uploadMarkdownToStorage(content, filePath) {
     const bucket = storage.bucket(bucketName);
