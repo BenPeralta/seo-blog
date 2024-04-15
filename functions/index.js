@@ -14,21 +14,25 @@ exports.triggerStaticSiteBuild = functions.storage.bucket(bucketName).object().o
     const githubRepo = 'BenPeralta/seo-blog';
     const githubToken = functions.config().github.token; // The token stored in Firebase config
 
-    // Trigger the GitHub Actions workflow
     const response = await fetch(
         `https://api.github.com/repos/${githubRepo}/dispatches`,
         {
             method: 'POST',
-            body: JSON.stringify({ event_type: 'trigger-hugo-build', client_payload: { filePath: filePath } }),
+            body: JSON.stringify({
+                event_type: 'trigger-hugo-build',
+                client_payload: { filePath: filePath }
+            }),
             headers: {
                 Accept: 'application/vnd.github.everest-preview+json',
                 Authorization: `Bearer ${githubToken}`,
                 'Content-Type': 'application/json',
             },
         }
-    );
+    );    
 
+    const result = await response.json();  // Correctly handle JSON response
     if (!response.ok) {
+        console.error(`GitHub API responded with error: ${JSON.stringify(result)}`);
         throw new Error(`Failed to trigger build: ${response.status} ${response.statusText}`);
     }
 
