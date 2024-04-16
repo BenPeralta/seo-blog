@@ -13,7 +13,7 @@ exports.triggerStaticSiteBuild = functions.storage.bucket(bucketName).object().o
     
     const githubRepo = 'BenPeralta/seo-blog';
     const githubToken = functions.config().github.token; // The token stored in Firebase config
-
+    
     const response = await fetch(
         `https://api.github.com/repos/${githubRepo}/dispatches`,
         {
@@ -30,13 +30,26 @@ exports.triggerStaticSiteBuild = functions.storage.bucket(bucketName).object().o
         }
     );    
 
-    const result = await response.json();  // Correctly handle JSON response
-    if (!response.ok) {
-        console.error(`GitHub API responded with error: ${JSON.stringify(result)}`);
-        throw new Error(`Failed to trigger build: ${response.status} ${response.statusText}`);
+    const resultText = await response.text(); // Get the raw text of the response
+
+    console.log(`Response Text: ${resultText}`);
+
+    console.log(`Response Status: ${response.status}`);
+    if (response.status === 204) {
+        // Log success and return as there's no content to parse.
+        console.log('Triggered GitHub action successfully.');
+        return 'Triggered GitHub action successfully.';
     }
 
-    return response.json();
+    if (!response.ok) {
+        // Log and throw an error as the response is not OK and not 204.
+        console.error(`Failed to trigger build: ${response.status} ${response.statusText}`);
+        throw new Error(`GitHub API responded with error: ${await response.text()}`);
+    }
+
+    // If the response is OK and not 204, then parse the response.
+    const result = await response.json();
+    return result;
 });
 
 exports.generateHugoContent = functions.https.onRequest(async (req, res) => {
