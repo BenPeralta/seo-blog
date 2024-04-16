@@ -2,74 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gray Hat News</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.grayhatnews.com/</link>
     <description>Recent content on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2023 20:37:29 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Mar 2024 18:06:56 -0500</lastBuildDate>
+    <atom:link href="https://www.grayhatnews.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlock the Secrets of ITIN Application: Your Guide to Obtaining an ITIN Number for Non-US Citizens</title>
+      <link>https://www.grayhatnews.com/posts/2024/itin-application-guide-non-us-citizens/</link>
+      <pubDate>Thu, 21 Mar 2024 18:06:56 -0500</pubDate>
+      <guid>https://www.grayhatnews.com/posts/2024/itin-application-guide-non-us-citizens/</guid>
+      <description>Demystifying the ITIN Application Process: Your Guide to Tax Identification as a Non-US Citizen&#xA;Hello there! Today we&amp;rsquo;ll be exploring the ins and outs of obtaining an Individual Taxpayer Identification Number, commonly known as an ITIN.</description>
+    </item>
+    <item>
+      <title>WasteFree: Revolutionizing Waste Management with Eco-Friendly Trash Cans and Unparalleled Valet Trash Services</title>
+      <link>https://www.grayhatnews.com/posts/2024/revolutionizing-waste-management-trash-cans-valet-trash-services/</link>
+      <pubDate>Wed, 20 Mar 2024 15:06:44 -0500</pubDate>
+      <guid>https://www.grayhatnews.com/posts/2024/revolutionizing-waste-management-trash-cans-valet-trash-services/</guid>
+      <description>Revolutionizing Waste Management with Eco-Friendly Solutions&#xA;Living sustainably is crucial for our planet&amp;rsquo;s health. The team at WasteFree passionately believes this, working to make the world cleaner through innovative waste management.</description>
+    </item>
+    <item>
+      <title>Eco-Friendly Trash Cans: The Key to Sustainable Waste Management</title>
+      <link>https://www.grayhatnews.com/posts/2023/eco-friendly-trash-cans-sustainable-waste-management/</link>
+      <pubDate>Wed, 20 Mar 2024 02:08:05 -0500</pubDate>
+      <guid>https://www.grayhatnews.com/posts/2023/eco-friendly-trash-cans-sustainable-waste-management/</guid>
+      <description>The Journey to Sustainable Waste Management Starts with Your Trash Can What happens after you toss something in the trash? Out of sight, out of mind, right?</description>
+    </item>
+    <item>
+      <title>Transform Your Written Content into an Engaging Audio Experience with ButterReader</title>
+      <link>https://www.grayhatnews.com/posts/2023/transform-written-content-into-audio-butterreader/</link>
+      <pubDate>Wed, 20 Mar 2024 00:06:07 -0500</pubDate>
+      <guid>https://www.grayhatnews.com/posts/2023/transform-written-content-into-audio-butterreader/</guid>
+      <description>In today&amp;rsquo;s fast-paced digital world, capturing and retaining your audience&amp;rsquo;s attention is more challenging than ever. As a blogger, you&amp;rsquo;re constantly competing with a myriad of distractions, from social media notifications to the ever-present allure of cat videos.</description>
+    </item>
+    <item>
+      <title>Say Goodbye to High Prices: Discover WasteFree&#39;s Competitive Valet Trash Pricing Near You</title>
+      <link>https://www.grayhatnews.com/posts/2024/wastefree-competitive-valet-trash-pricing/</link>
+      <pubDate>Tue, 19 Mar 2024 21:06:33 -0500</pubDate>
+      <guid>https://www.grayhatnews.com/posts/2024/wastefree-competitive-valet-trash-pricing/</guid>
+      <description>Introduction Are you tired of the hassle and high costs associated with traditional waste management services? Do you dream of a more convenient and affordable solution for your multi-family community?</description>
+    </item>
+    <item>
+      <title>Streamline Your ITIN Application with These Helpful Tips</title>
+      <link>https://www.grayhatnews.com/posts/2024/streamline-itin-application-tips/</link>
+      <pubDate>Tue, 19 Mar 2024 19:06:59 -0500</pubDate>
+      <guid>https://www.grayhatnews.com/posts/2024/streamline-itin-application-tips/</guid>
+      <description>Simplify Your ITIN Application: A Guide for New U.S. Taxpayers&#xA;Moving to the United States brings both excitement and challenges. As an immigrant, you take on new responsibilities, including filing U.</description>
+    </item>
+    <item>
+      <title>Unleash the Power of Voice: How ButterReader is Revolutionizing the Blogging Experience</title>
+      <link>https://www.grayhatnews.com/posts/2023/butter-reader-revolutionizing-blogging-experience/</link>
+      <pubDate>Tue, 19 Mar 2024 18:07:04 -0500</pubDate>
+      <guid>https://www.grayhatnews.com/posts/2023/butter-reader-revolutionizing-blogging-experience/</guid>
+      <description>In the ever-evolving world of blogging, staying ahead of the curve is essential to captivate and retain your audience. As content creators, we&amp;rsquo;re always on the lookout for innovative tools that can enhance the user experience and make our content more accessible.</description>
+    </item>
+    <item>
+      <title>Trash Talk: Why WasteFree is the Best Choice for Eco-Friendly Valet Trash Services Near You</title>
+      <link>https://www.grayhatnews.com/posts/2023/wastefree-best-choice-eco-friendly-valet-trash-services/</link>
+      <pubDate>Tue, 19 Mar 2024 17:06:28 -0500</pubDate>
+      <guid>https://www.grayhatnews.com/posts/2023/wastefree-best-choice-eco-friendly-valet-trash-services/</guid>
+      <description>Eco-Friendly Trash Services That Make Your Life Easier Busy schedules. Overflowing bins. Heavy lifting. Unpleasant odors. Most of us know these all-too-familiar trash woes.</description>
+    </item>
+    <item>
+      <title>Trash Talk: The Truth About Competitive Valet Trash Pricing</title>
+      <link>https://www.grayhatnews.com/posts/2023/competitive-valet-trash-pricing/</link>
+      <pubDate>Tue, 19 Mar 2024 13:32:09 -0500</pubDate>
+      <guid>https://www.grayhatnews.com/posts/2023/competitive-valet-trash-pricing/</guid>
+      <description>The Inside Scoop: Valet Trash Pricing and Service Value Let&amp;rsquo;s chat trash, folks. More specifically, valet trash services - pricing, perks, and finding companies who truly care about their customers and our planet.</description>
+    </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.grayhatnews.com/about/</link>
       <pubDate>Fri, 06 Oct 2023 20:37:29 +0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Pehtheme Hugo is your gateway to the mysteries and wonders of the universe. We are a passionate community of space enthusiasts, scientists, and stargazers dedicated to sharing the awe-inspiring beauty and profound knowledge of the cosmos.</description>
-    </item>
-    <item>
-      <title>Unveiling the Secrets of Black Holes: A Journey into the Heart of Darkness</title>
-      <link>http://localhost:1313/posts/2023/unveiling-the-secrets-of-black-holes/</link>
-      <pubDate>Wed, 04 Oct 2023 22:11:36 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/unveiling-the-secrets-of-black-holes/</guid>
-      <description>In the vast expanse of the cosmos, there are few objects as mysterious and awe-inspiring as black holes. These enigmatic cosmic phenomena, once thought of as nothing more than theoretical curiosities, have now become a central focus of astronomical research.</description>
-    </item>
-    <item>
-      <title>Galactic Marvels: The Most Spectacular Nebulas in the Cosmos</title>
-      <link>http://localhost:1313/posts/2023/galactic-marvels/</link>
-      <pubDate>Sun, 24 Sep 2023 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/galactic-marvels/</guid>
-      <description>In the vast expanse of the cosmos, one cannot help but be captivated by the breathtaking beauty of nebulae. These celestial marvels are often hidden in the depths of space, waiting to be discovered and admired by astronomers and space enthusiasts alike.</description>
-    </item>
-    <item>
-      <title>Stellar Spectacles: The Wonders of Supernova Explosions</title>
-      <link>http://localhost:1313/posts/2023/stellar-spectacles/</link>
-      <pubDate>Sat, 23 Sep 2023 22:45:37 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/stellar-spectacles/</guid>
-      <description>In the vast expanse of the cosmos, few events match the spectacle and scientific importance of supernova explosions. These awe-inspiring cosmic fireworks mark the dramatic end of a star&amp;rsquo;s life and offer profound insights into the universe&amp;rsquo;s workings.</description>
-    </item>
-    <item>
-      <title>Space Exploration&#39;s Next Frontier: The Race to Reach Mars</title>
-      <link>http://localhost:1313/posts/2023/space-explorations-next-frontier/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/space-explorations-next-frontier/</guid>
-      <description>The dream of reaching Mars has captured the imagination of scientists, engineers, and space enthusiasts for decades. In recent years, this dream has transformed into a tangible goal, with various space agencies and private companies embarking on missions to make it a reality.</description>
-    </item>
-    <item>
-      <title>The Great Beyond: Exploring the Expanding Universe</title>
-      <link>http://localhost:1313/posts/2023/the-great-beyond/</link>
-      <pubDate>Sat, 12 Aug 2023 14:15:05 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/the-great-beyond/</guid>
-      <description>The universe, with its vastness and complexity, has intrigued humanity for centuries. In recent decades, our understanding of the cosmos has deepened, thanks to groundbreaking discoveries about the expansion of the universe.</description>
-    </item>
-    <item>
-      <title>Cosmic Time Travel: Peering into the Universe&#39;s Past with Telescopes</title>
-      <link>http://localhost:1313/posts/2022/cosmic-time-travel/</link>
-      <pubDate>Mon, 07 Aug 2023 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/cosmic-time-travel/</guid>
-      <description>In the realm of astronomy, telescopes are our time machines, allowing us to peer into the distant past of the universe.</description>
-    </item>
-    <item>
-      <title>The Hubble Space Telescope: 30 Years of Stunning Discoveries</title>
-      <link>http://localhost:1313/posts/2022/the-hubble-space-telescope/</link>
-      <pubDate>Sun, 30 Jul 2023 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/the-hubble-space-telescope/</guid>
-      <description>For three remarkable decades, the Hubble Space Telescope has been our eye on the universe, delivering breathtaking images and transformative scientific insights.</description>
-    </item>
-    <item>
-      <title>Exoplanets: Hunting for Earth&#39;s Cosmic Cousins</title>
-      <link>http://localhost:1313/posts/2022/exoplanets-hunting/</link>
-      <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/exoplanets-hunting/</guid>
-      <description>In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distant celestial bodies that might bear a resemblance to our own Earth.</description>
+      <guid>https://www.grayhatnews.com/about/</guid>
+      <description>GrayHat News is your digital gateway to the latest and greatest in technology and innovation. We are a vibrant hub for tech enthusiasts, industry professionals, and casual readers alike, driven by a shared passion for discovering technology that shapes our future.</description>
     </item>
   </channel>
 </rss>

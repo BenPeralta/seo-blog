@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Engagement on Gray Hat News</title>
+    <link>http://localhost:1313/categories/user-engagement/</link>
+    <description>Recent content in User Engagement on Gray Hat News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:06:07 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/user-engagement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transform Your Written Content into an Engaging Audio Experience with ButterReader</title>
+      <link>http://localhost:1313/posts/2023/transform-written-content-into-audio-butterreader/</link>
+      <pubDate>Wed, 20 Mar 2024 00:06:07 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/transform-written-content-into-audio-butterreader/</guid>
+      <description>Butter Up Your Blog with An Audio Experience&#xA;Has there ever been a time when you were all cozy in your blanket, hot cocoa in hand, ready to dive into your favorite blog post, but your eyes felt heavy from the day&amp;rsquo;s stresses?</description>
+    </item>
+    <item>
+      <title>Unleash the Power of Voice with ButterReader - The Essential Audio Widget for Your Blog</title>
+      <link>http://localhost:1313/posts/2023/butter-reader-audio-widget-blog/</link>
+      <pubDate>Tue, 19 Mar 2024 18:07:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/butter-reader-audio-widget-blog/</guid>
+      <description>Listen Up: It&amp;rsquo;s Time to Add an Audio Widget to Your Blog&#xA;Remember when reading blogs meant hunching over a tiny phone screen during your commute or squinting at bright computer monitors late into the night?</description>
+    </item>
+  </channel>
+</rss>
