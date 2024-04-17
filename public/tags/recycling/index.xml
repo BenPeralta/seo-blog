@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recycling on Gray Hat News</title>
-    <link>http://localhost:1313/tags/recycling/</link>
+    <link>https://www.grayhatnews.com/tags/recycling/</link>
     <description>Recent content in Recycling on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2024 02:08:05 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/recycling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.grayhatnews.com/tags/recycling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eco-Friendly Trash Cans: The Key to Sustainable Waste Management</title>
-      <link>http://localhost:1313/posts/2023/eco-friendly-trash-cans-sustainable-waste-management/</link>
+      <link>https://www.grayhatnews.com/posts/2023/eco-friendly-trash-cans-sustainable-waste-management/</link>
       <pubDate>Wed, 20 Mar 2024 02:08:05 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2023/eco-friendly-trash-cans-sustainable-waste-management/</guid>
+      <guid>https://www.grayhatnews.com/posts/2023/eco-friendly-trash-cans-sustainable-waste-management/</guid>
       <description>The Journey to Sustainable Waste Management Starts with Your Trash Can What happens after you toss something in the trash? Out of sight, out of mind, right?</description>
     </item>
     <item>
       <title>Say Goodbye to High Prices: Discover WasteFree&#39;s Competitive Valet Trash Pricing Near You</title>
-      <link>http://localhost:1313/posts/2024/wastefree-competitive-valet-trash-pricing/</link>
+      <link>https://www.grayhatnews.com/posts/2024/wastefree-competitive-valet-trash-pricing/</link>
       <pubDate>Tue, 19 Mar 2024 21:06:33 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024/wastefree-competitive-valet-trash-pricing/</guid>
+      <guid>https://www.grayhatnews.com/posts/2024/wastefree-competitive-valet-trash-pricing/</guid>
       <description>Introduction Are you tired of the hassle and high costs associated with traditional waste management services? Do you dream of a more convenient and affordable solution for your multi-family community?</description>
     </item>
   </channel>

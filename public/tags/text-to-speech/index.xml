@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text-to-Speech on Gray Hat News</title>
-    <link>http://localhost:1313/tags/text-to-speech/</link>
+    <link>https://www.grayhatnews.com/tags/text-to-speech/</link>
     <description>Recent content in Text-to-Speech on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2024 00:06:07 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.grayhatnews.com/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transform Your Written Content into an Engaging Audio Experience with ButterReader</title>
-      <link>http://localhost:1313/posts/2023/transform-written-content-into-audio-butterreader/</link>
+      <link>https://www.grayhatnews.com/posts/2023/transform-written-content-into-audio-butterreader/</link>
       <pubDate>Wed, 20 Mar 2024 00:06:07 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2023/transform-written-content-into-audio-butterreader/</guid>
+      <guid>https://www.grayhatnews.com/posts/2023/transform-written-content-into-audio-butterreader/</guid>
       <description>In today&amp;rsquo;s fast-paced digital world, capturing and retaining your audience&amp;rsquo;s attention is more challenging than ever. As a blogger, you&amp;rsquo;re constantly competing with a myriad of distractions, from social media notifications to the ever-present allure of cat videos.</description>
     </item>
   </channel>

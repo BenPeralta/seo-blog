@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text to Speech on Gray Hat News</title>
-    <link>http://localhost:1313/categories/text-to-speech/</link>
+    <link>https://www.grayhatnews.com/categories/text-to-speech/</link>
     <description>Recent content in Text to Speech on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Mar 2024 18:07:04 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.grayhatnews.com/categories/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unleash the Power of Voice: How ButterReader is Revolutionizing the Blogging Experience</title>
-      <link>http://localhost:1313/posts/2023/butter-reader-revolutionizing-blogging-experience/</link>
+      <link>https://www.grayhatnews.com/posts/2023/butter-reader-revolutionizing-blogging-experience/</link>
       <pubDate>Tue, 19 Mar 2024 18:07:04 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2023/butter-reader-revolutionizing-blogging-experience/</guid>
+      <guid>https://www.grayhatnews.com/posts/2023/butter-reader-revolutionizing-blogging-experience/</guid>
       <description>In the ever-evolving world of blogging, staying ahead of the curve is essential to captivate and retain your audience. As content creators, we&amp;rsquo;re always on the lookout for innovative tools that can enhance the user experience and make our content more accessible.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ITIN on Gray Hat News</title>
-    <link>http://localhost:1313/tags/itin/</link>
+    <link>https://www.grayhatnews.com/tags/itin/</link>
     <description>Recent content in ITIN on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2024 18:06:56 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/itin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.grayhatnews.com/tags/itin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlock the Secrets of ITIN Application: Your Guide to Obtaining an ITIN Number for Non-US Citizens</title>
-      <link>http://localhost:1313/posts/2024/itin-application-guide-non-us-citizens/</link>
+      <link>https://www.grayhatnews.com/posts/2024/itin-application-guide-non-us-citizens/</link>
       <pubDate>Thu, 21 Mar 2024 18:06:56 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024/itin-application-guide-non-us-citizens/</guid>
+      <guid>https://www.grayhatnews.com/posts/2024/itin-application-guide-non-us-citizens/</guid>
       <description>Demystifying the ITIN Application Process: Your Guide to Tax Identification as a Non-US Citizen&#xA;Hello there! Today we&amp;rsquo;ll be exploring the ins and outs of obtaining an Individual Taxpayer Identification Number, commonly known as an ITIN.</description>
     </item>
     <item>
       <title>Streamline Your ITIN Application with These Helpful Tips</title>
-      <link>http://localhost:1313/posts/2024/streamline-itin-application-tips/</link>
+      <link>https://www.grayhatnews.com/posts/2024/streamline-itin-application-tips/</link>
       <pubDate>Tue, 19 Mar 2024 19:06:59 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024/streamline-itin-application-tips/</guid>
+      <guid>https://www.grayhatnews.com/posts/2024/streamline-itin-application-tips/</guid>
       <description>Simplify Your ITIN Application: A Guide for New U.S. Taxpayers&#xA;Moving to the United States brings both excitement and challenges. As an immigrant, you take on new responsibilities, including filing U.</description>
     </item>
   </channel>

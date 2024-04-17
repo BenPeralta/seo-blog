@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Appartment Services on Gray Hat News</title>
-    <link>http://localhost:1313/categories/appartment-services/</link>
+    <link>https://www.grayhatnews.com/categories/appartment-services/</link>
     <description>Recent content in Appartment Services on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Mar 2024 17:06:28 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/appartment-services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.grayhatnews.com/categories/appartment-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trash Talk: Why WasteFree is the Best Choice for Eco-Friendly Valet Trash Services Near You</title>
-      <link>http://localhost:1313/posts/2023/wastefree-best-choice-eco-friendly-valet-trash-services/</link>
+      <link>https://www.grayhatnews.com/posts/2023/wastefree-best-choice-eco-friendly-valet-trash-services/</link>
       <pubDate>Tue, 19 Mar 2024 17:06:28 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2023/wastefree-best-choice-eco-friendly-valet-trash-services/</guid>
+      <guid>https://www.grayhatnews.com/posts/2023/wastefree-best-choice-eco-friendly-valet-trash-services/</guid>
       <description>Eco-Friendly Trash Services That Make Your Life Easier Busy schedules. Overflowing bins. Heavy lifting. Unpleasant odors. Most of us know these all-too-familiar trash woes.</description>
     </item>
   </channel>

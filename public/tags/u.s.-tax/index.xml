@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U.S. Tax on Gray Hat News</title>
-    <link>http://localhost:1313/tags/u.s.-tax/</link>
+    <link>https://www.grayhatnews.com/tags/u.s.-tax/</link>
     <description>Recent content in U.S. Tax on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Mar 2024 19:06:59 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/u.s.-tax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.grayhatnews.com/tags/u.s.-tax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streamline Your ITIN Application with These Helpful Tips</title>
-      <link>http://localhost:1313/posts/2024/streamline-itin-application-tips/</link>
+      <link>https://www.grayhatnews.com/posts/2024/streamline-itin-application-tips/</link>
       <pubDate>Tue, 19 Mar 2024 19:06:59 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024/streamline-itin-application-tips/</guid>
+      <guid>https://www.grayhatnews.com/posts/2024/streamline-itin-application-tips/</guid>
       <description>Simplify Your ITIN Application: A Guide for New U.S. Taxpayers&#xA;Moving to the United States brings both excitement and challenges. As an immigrant, you take on new responsibilities, including filing U.</description>
     </item>
   </channel>
