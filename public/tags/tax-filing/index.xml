@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tax Filing on Gray Hat News</title>
-    <link>https://www.grayhatnews.com/tags/tax-filing/</link>
+    <link>http://localhost:1313/tags/tax-filing/</link>
     <description>Recent content in Tax Filing on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2024 18:06:56 -0500</lastBuildDate>
-    <atom:link href="https://www.grayhatnews.com/tags/tax-filing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tax-filing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlock the Secrets of ITIN Application: Your Guide to Obtaining an ITIN Number for Non-US Citizens</title>
-      <link>https://www.grayhatnews.com/posts/2024/itin-application-guide-non-us-citizens/</link>
+      <link>http://localhost:1313/posts/2024/itin-application-guide-non-us-citizens/</link>
       <pubDate>Thu, 21 Mar 2024 18:06:56 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/posts/2024/itin-application-guide-non-us-citizens/</guid>
+      <guid>http://localhost:1313/posts/2024/itin-application-guide-non-us-citizens/</guid>
       <description>Demystifying the ITIN Application Process: Your Guide to Tax Identification as a Non-US Citizen&#xA;Hello there! Today we&amp;rsquo;ll be exploring the ins and outs of obtaining an Individual Taxpayer Identification Number, commonly known as an ITIN.</description>
     </item>
   </channel>

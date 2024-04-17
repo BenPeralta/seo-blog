@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WasteFree on Gray Hat News</title>
-    <link>https://www.grayhatnews.com/tags/wastefree/</link>
+    <link>http://localhost:1313/tags/wastefree/</link>
     <description>Recent content in WasteFree on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2024 15:06:44 -0500</lastBuildDate>
-    <atom:link href="https://www.grayhatnews.com/tags/wastefree/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/wastefree/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WasteFree: Revolutionizing Waste Management with Eco-Friendly Trash Cans and Unparalleled Valet Trash Services</title>
-      <link>https://www.grayhatnews.com/posts/2024/revolutionizing-waste-management-trash-cans-valet-trash-services/</link>
+      <link>http://localhost:1313/posts/2024/revolutionizing-waste-management-trash-cans-valet-trash-services/</link>
       <pubDate>Wed, 20 Mar 2024 15:06:44 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/posts/2024/revolutionizing-waste-management-trash-cans-valet-trash-services/</guid>
+      <guid>http://localhost:1313/posts/2024/revolutionizing-waste-management-trash-cans-valet-trash-services/</guid>
       <description>Revolutionizing Waste Management with Eco-Friendly Solutions&#xA;Living sustainably is crucial for our planet&amp;rsquo;s health. The team at WasteFree passionately believes this, working to make the world cleaner through innovative waste management.</description>
     </item>
     <item>
       <title>Say Goodbye to High Prices: Discover WasteFree&#39;s Competitive Valet Trash Pricing Near You</title>
-      <link>https://www.grayhatnews.com/posts/2024/wastefree-competitive-valet-trash-pricing/</link>
+      <link>http://localhost:1313/posts/2024/wastefree-competitive-valet-trash-pricing/</link>
       <pubDate>Tue, 19 Mar 2024 21:06:33 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/posts/2024/wastefree-competitive-valet-trash-pricing/</guid>
+      <guid>http://localhost:1313/posts/2024/wastefree-competitive-valet-trash-pricing/</guid>
       <description>Introduction Are you tired of the hassle and high costs associated with traditional waste management services? Do you dream of a more convenient and affordable solution for your multi-family community?</description>
     </item>
   </channel>

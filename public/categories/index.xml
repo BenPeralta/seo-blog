@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gray Hat News</title>
-    <link>https://www.grayhatnews.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2024 18:06:56 -0500</lastBuildDate>
-    <atom:link href="https://www.grayhatnews.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taxation</title>
-      <link>https://www.grayhatnews.com/categories/taxation/</link>
+      <link>http://localhost:1313/categories/taxation/</link>
       <pubDate>Thu, 21 Mar 2024 18:06:56 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/categories/taxation/</guid>
+      <guid>http://localhost:1313/categories/taxation/</guid>
       <description></description>
     </item>
     <item>
       <title>Waste Management</title>
-      <link>https://www.grayhatnews.com/categories/waste-management/</link>
+      <link>http://localhost:1313/categories/waste-management/</link>
       <pubDate>Wed, 20 Mar 2024 15:06:44 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/categories/waste-management/</guid>
+      <guid>http://localhost:1313/categories/waste-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Recycling</title>
-      <link>https://www.grayhatnews.com/categories/recycling/</link>
+      <link>http://localhost:1313/categories/recycling/</link>
       <pubDate>Wed, 20 Mar 2024 02:08:05 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/categories/recycling/</guid>
+      <guid>http://localhost:1313/categories/recycling/</guid>
       <description></description>
     </item>
     <item>
       <title>Valet Trash</title>
-      <link>https://www.grayhatnews.com/categories/valet-trash/</link>
+      <link>http://localhost:1313/categories/valet-trash/</link>
       <pubDate>Wed, 20 Mar 2024 02:08:05 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/categories/valet-trash/</guid>
+      <guid>http://localhost:1313/categories/valet-trash/</guid>
       <description></description>
     </item>
     <item>
       <title>Blogging Tools</title>
-      <link>https://www.grayhatnews.com/categories/blogging-tools/</link>
+      <link>http://localhost:1313/categories/blogging-tools/</link>
       <pubDate>Wed, 20 Mar 2024 00:06:07 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/categories/blogging-tools/</guid>
+      <guid>http://localhost:1313/categories/blogging-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Tools</title>
-      <link>https://www.grayhatnews.com/categories/digital-tools/</link>
+      <link>http://localhost:1313/categories/digital-tools/</link>
       <pubDate>Wed, 20 Mar 2024 00:06:07 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/categories/digital-tools/</guid>
+      <guid>http://localhost:1313/categories/digital-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Text to Speech</title>
-      <link>https://www.grayhatnews.com/categories/text-to-speech/</link>
+      <link>http://localhost:1313/categories/text-to-speech/</link>
       <pubDate>Tue, 19 Mar 2024 18:07:04 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/categories/text-to-speech/</guid>
+      <guid>http://localhost:1313/categories/text-to-speech/</guid>
       <description></description>
     </item>
     <item>
       <title>Appartment Services</title>
-      <link>https://www.grayhatnews.com/categories/appartment-services/</link>
+      <link>http://localhost:1313/categories/appartment-services/</link>
       <pubDate>Tue, 19 Mar 2024 17:06:28 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/categories/appartment-services/</guid>
+      <guid>http://localhost:1313/categories/appartment-services/</guid>
       <description></description>
     </item>
     <item>
       <title>Waste Management Services</title>
-      <link>https://www.grayhatnews.com/categories/waste-management-services/</link>
+      <link>http://localhost:1313/categories/waste-management-services/</link>
       <pubDate>Tue, 19 Mar 2024 13:32:09 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/categories/waste-management-services/</guid>
+      <guid>http://localhost:1313/categories/waste-management-services/</guid>
       <description></description>
     </item>
   </channel>

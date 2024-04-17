@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audio Content on Gray Hat News</title>
-    <link>https://www.grayhatnews.com/tags/audio-content/</link>
+    <link>http://localhost:1313/tags/audio-content/</link>
     <description>Recent content in Audio Content on Gray Hat News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2024 00:06:07 -0500</lastBuildDate>
-    <atom:link href="https://www.grayhatnews.com/tags/audio-content/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/audio-content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transform Your Written Content into an Engaging Audio Experience with ButterReader</title>
-      <link>https://www.grayhatnews.com/posts/2023/transform-written-content-into-audio-butterreader/</link>
+      <link>http://localhost:1313/posts/2023/transform-written-content-into-audio-butterreader/</link>
       <pubDate>Wed, 20 Mar 2024 00:06:07 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/posts/2023/transform-written-content-into-audio-butterreader/</guid>
+      <guid>http://localhost:1313/posts/2023/transform-written-content-into-audio-butterreader/</guid>
       <description>In today&amp;rsquo;s fast-paced digital world, capturing and retaining your audience&amp;rsquo;s attention is more challenging than ever. As a blogger, you&amp;rsquo;re constantly competing with a myriad of distractions, from social media notifications to the ever-present allure of cat videos.</description>
     </item>
     <item>
       <title>Unleash the Power of Voice: How ButterReader is Revolutionizing the Blogging Experience</title>
-      <link>https://www.grayhatnews.com/posts/2023/butter-reader-revolutionizing-blogging-experience/</link>
+      <link>http://localhost:1313/posts/2023/butter-reader-revolutionizing-blogging-experience/</link>
       <pubDate>Tue, 19 Mar 2024 18:07:04 -0500</pubDate>
-      <guid>https://www.grayhatnews.com/posts/2023/butter-reader-revolutionizing-blogging-experience/</guid>
+      <guid>http://localhost:1313/posts/2023/butter-reader-revolutionizing-blogging-experience/</guid>
       <description>In the ever-evolving world of blogging, staying ahead of the curve is essential to captivate and retain your audience. As content creators, we&amp;rsquo;re always on the lookout for innovative tools that can enhance the user experience and make our content more accessible.</description>
     </item>
   </channel>
