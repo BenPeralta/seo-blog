@@ -2,41 +2,45 @@ baseURL = 'https://www.grayhatnews.com/'
 languageCode = 'en-us'
 title = 'Gray Hat News'
 theme = 'pehtheme-hugo'
-
-paginate = '6' # <- Set the desired number of posts per page 
-summaryLength = '20' # <- 20 words are approximately 160 characters
-googleAnalytics = 'G-8N89EQ5F48' # <- Your GA-4
-disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
+paginate = '6'
+summaryLength = '20'
+googleAnalytics = 'G-8N89EQ5F48'
+disqusShortname = 'tonybalvida'
+enableRobotsTXT = true
 
 [params]
-	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
-	description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
-	mainSections = 'posts'
+description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
+mainSections = 'posts'
 
 [author]
-	name = 'GrayHat Media'
-	bio = 'A writer about all innovative things in the service, residental, and tech sector.'
-	avatar = '/images/nasa-astronaut-unsplash.jpg'
-	twitter = 'https://twitter.com/butterreader'
+name = 'GrayHat Media'
+bio = 'A writer about all innovative things in the service, residential, and tech sector.'
+avatar = '/images/nasa-astronaut-unsplash.jpg'
+twitter = 'https://twitter.com/butterreader'
 
-[menu] # Menu management
-	[[menu.main]]
-		name = 'Home'
-		pageRef = '/'
-		weight = 10
-	[[menu.main]]
-		name = 'About'
-		pageRef = '/about'
-		weight = 15
-	[[menu.main]]
-		name = 'Tags'
-		pageRef = '/tags'
-		weight = 20
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
+lastmod = true  # Automatically update last modification date
+
+[securityHeaders]
+ContentSecurityPolicy = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';"
+
+[menu]
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+[[menu.main]]
+name = 'About'
+pageRef = '/about'
+weight = 15
+[[menu.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 20
 
 [module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.116.0"
-  [module.mounts] # Directing the static folder to assets.
-  	source = 'assets'
-  	target = 'static'
+hugoVersion = { extended = false, min = "0.116.0" }
+mounts = [{ source = 'assets', target = 'static' }]

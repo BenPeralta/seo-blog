@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /secrets/
+
+Sitemap: https://www.grayhatnews.com/sitemap.xml
